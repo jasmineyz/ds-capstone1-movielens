@@ -18,4 +18,4 @@ The goal of this project is to build and evaluate a predictive movie recommendat
 
 - The final regularized model achieved an **RMSE of 0.8642** on the validation set, surpassing the project objective (RMSE < 0.8649).
 - Most improvement came from adding user effects; genre, release year, and review date had smaller impacts.
-- All work was conducted in **R** using **R Markdown**.
+- All work was completed in **R** using **R Markdown**.
